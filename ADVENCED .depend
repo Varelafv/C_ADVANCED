@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1708535259 source:/home/pse/Documents/POO/Diagrame de sequence/CodeHorametre/ADVENCED /main.c
+	<stdio.h>
+	<stdlib.h>
+
+1708624340 source:/home/pse/Documents/Embdded/ADVENCED /Bitwise.c
+	<stdio.h>
+	<stdlib.h>
+
+1708941997 source:/home/pse/Documents/Embdded/ADVENCED /main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1708694898 source:/home/pse/Documents/Embdded/ADVENCED /Boucle_bitwise.c
+	<stdio.h>
+	<stdlib.h>
+
+1708941927 source:/home/pse/Documents/Embdded/ADVENCED /fonction.c
+	<stdio.h>
+	"fonction.h"
+
+1708941606 /home/pse/Documents/Embdded/ADVENCED /fonction.h
+
